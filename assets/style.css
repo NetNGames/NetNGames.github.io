@@ -54,3 +54,11 @@ div#footer li
     display: inline;
     margin-right: 1em;
 }
+.images
+{
+    display:inline-block;
+}
+h4
+{
+    text-align: center;
+}
